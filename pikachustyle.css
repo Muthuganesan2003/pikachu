@@ -1,0 +1,105 @@
+body{
+    margin:0;
+}
+  .face{
+    background-color:yellow;
+    height:300px;
+    width:300px;
+    position:absolute;
+    left:325px;
+    top:200px;
+}
+  .ear1{
+    background-color:yellow;
+    height:100px;
+    width:110px;
+    position:relative;
+    bottom:100px;
+}
+  .ear2{
+    background-color:yellow;
+    height:100px;
+    width:110px;
+    position:relative;
+    bottom:200px;
+    left:190px;
+}
+  .subear1{
+    background-color:black;
+    height:30px;
+    width:110px;
+    position:relative;
+    bottom:20px;
+    
+} 
+  .subear2{
+    background-color:black;
+    height:30px;
+    width:110px;
+    position:relative;
+    bottom:20px;
+} 
+  .eye1{
+    background-color:black;
+    height:90px;
+    width:100px;
+    position:absolute;
+    top:20px;
+    left:20px;
+    border:solid;
+}
+  .eye2{
+    background-color:black;
+    height:90px;
+    width:100px;
+    position:absolute;
+    top:20px;
+    left:175px;
+    border:solid;
+}
+  .subeye1{
+    background-color:white;
+    height:40px;
+    width:40px;
+    position:absolute;
+    top:0px;
+    right:0px;
+}
+  .subeye2{
+    background-color:white;
+    height:40px;
+    width:40px;
+    position:absolute;
+    top:0px;
+    right:0px;
+}
+  .cheek1{
+    background-color:red;
+    height:70px;
+    width:70px;
+    position:relative;
+    bottom:40px;
+}
+  .cheek2{
+    background-color:red;
+    height:70px;
+    width:70px;
+    position:relative;
+    left:230px;
+}
+  .nose{
+    background-color:black;
+    height:30px;
+    width:40px;
+    position:absolute;
+    top:125px;
+    left:130px;
+}
+  .mouth{
+    background-color:pink;
+    height:80px;
+    width:60px;
+    position:relative;
+    top:50px;
+    right:10px;
+}
